@@ -1,7 +1,7 @@
 # system-design-30-days
 #  30 Days of System Design Challenge
 
-Learning Low-Level Design, Design Patterns, UML, and Real-World System Design through implementation and documentation.
+Learning Low-Level Design, Design Patterns, UML, and Real-World System Design through implementation and documentations.
 
 ## Progress Tracker
 
