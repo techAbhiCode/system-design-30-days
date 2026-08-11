@@ -71,7 +71,7 @@ public class Inheritance{
     public static void main(String[] args) {
         ManualCar myManualCar = new ManualCar("Suzuki", "WagonR");
         myManualCar.startEngine();
-        myManualCar.shiftGear(1); // Specific to Manual Car
+        myManualCar.shiftGear(1); 
         myManualCar.accelerate();
         myManualCar.brake();
         myManualCar.stopEngine();
@@ -79,7 +79,7 @@ public class Inheritance{
         System.out.println("----------------------");
 
         ElectricCar myElectricCar = new ElectricCar("Tesla", "Model S");
-        myElectricCar.chargeBattery(); // Specific to Electric Car
+        myElectricCar.chargeBattery(); 
         myElectricCar.startEngine();
         myElectricCar.accelerate();
         myElectricCar.brake();

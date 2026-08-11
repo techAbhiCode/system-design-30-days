@@ -19,5 +19,7 @@ public class AbstractionExample{
 
         vehicle.start();
         vehicle.stop();
+        vehicle.start();
+        vehicle.stop();
     }
 }
