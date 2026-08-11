@@ -6,10 +6,10 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 ## Progress Tracker
 
 | Day | Topic | Status |
-|------|--------|--------|
+|------|--------|-------|
 | 01 | Introduction to System Design | ✅ |
 | 02 | OOPs: Abstraction & Encapsulation | ✅ |
-| 03 | OOPs: Inheritance & Polymorphism | ⬜ |
+| 03 | OOPs: Inheritance & Polymorphism | ✅ |
 | 04 | UML Diagrams (Class + Sequence) | ⬜ |
 | 05 | SOLID Principles Part 1 | ⬜ |
 | 06 | SOLID Principles Part 2 | ⬜ |
@@ -47,7 +47,7 @@ system-design-30-days/
 │
 ├── README.md
 │
-├── Day-01-Introduction-To-System-Design/
+├── Day-01-Introduction-To-System-Design/ 
 ├── Day-02-OOP-Abstraction-Encapsulation/
 ├── Day-03-OOP-Inheritance-Polymorphism/
 ├── Day-04-UML-Diagrams/
