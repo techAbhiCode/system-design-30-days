@@ -10,7 +10,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 01 | Introduction to System Design | ✅ |
 | 02 | OOPs: Abstraction & Encapsulation | ✅ |
 | 03 | OOPs: Inheritance & Polymorphism | ✅ |
-| 04 | UML Diagrams (Class + Sequence) | ⬜ |
+| 04 | UML Diagrams (Class + Sequence) | ✅ |
 | 05 | SOLID Principles Part 1 | ⬜ |
 | 06 | SOLID Principles Part 2 | ⬜ |
 | 07 | Build Google Docs (Mini Project) | ⬜ |
