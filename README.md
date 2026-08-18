@@ -14,7 +14,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 05 | SOLID Principles Part 1 | ✅ |
 | 06 | SOLID Principles Part 2 | ✅ |
 | 07 | Design Doc Editor (Mini Project) | ✅ |
-| 08 | Strategy Pattern | ⬜ |
+| 08 | Strategy Pattern | ✅ |
 | 09 | Factory Pattern | ⬜ |
 | 10 | Singleton Pattern | ⬜ |
 | 11 | Build Zomato/Swiggy LLD | ⬜ |
