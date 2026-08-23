@@ -17,7 +17,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 08 | Strategy Pattern | ✅ |
 | 09 | Factory Pattern | ✅ |
 | 10 | Singleton Pattern | ✅ |
-| 11 | Build Zomato/Swiggy LLD | ⬜ |
+| 11 | Build Zomato/Swiggy LLD | ✅ |
 | 12 | Observer Pattern | ⬜ |
 | 13 | Decorator Pattern | ⬜ |
 | 14 | Build Notification Engine | ⬜ |
