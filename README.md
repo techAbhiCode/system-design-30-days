@@ -21,7 +21,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 12 | Observer Pattern | ✅ |
 | 13 | Decorator Pattern | ✅ |
 | 14 | Build Notification Engine | ✅ |
-| 15 | Command Pattern | ⬜ |
+| 15 | Command Pattern | ✅ |
 | 16 | Adapter Pattern | ⬜ |
 | 17 | Facade Pattern | ⬜ |
 | 18 | Build Spotify LLD | ⬜ |
