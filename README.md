@@ -24,7 +24,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 15 | Command Pattern | ✅ |
 | 16 | Adapter Pattern | ✅ |
 | 17 | Facade Pattern | ✅ |
-| 18 | Build Spotify LLD | ⬜ |
+| 18 | Build MusicPlayer LLD | ✅ |
 | 19 | Composite Pattern | ⬜ |
 | 20 | Template Method Pattern | ⬜ |
 | 21 | Proxy Pattern | ⬜ |
