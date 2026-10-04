@@ -26,7 +26,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 17 | Facade Pattern | ✅ |
 | 18 | Build MusicPlayer LLD | ✅ |
 | 19 | Composite Pattern | ✅ |
-| 20 | Template Method Pattern | ⬜ |
+| 20 | Template Method Pattern | ✅ |
 | 21 | Proxy Pattern | ⬜ |
 | 22 | Chain of Responsibility Pattern | ⬜ |
 | 23 | Build Payment Gateway System | ⬜ |
