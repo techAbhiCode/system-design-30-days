@@ -28,7 +28,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 19 | Composite Pattern | ✅ |
 | 20 | Template Method Pattern | ✅ |
 | 21 | Proxy Pattern | ✅ |
-| 22 | Chain of Responsibility Pattern | ⬜ |
+| 22 | Chain of Responsibility Pattern | ✅ |
 | 23 | Build Payment Gateway System | ⬜ |
 | 24 | Bridge Pattern + Discount Coupon Engine | ⬜ |
 | 25 | Build Zepto Inventory System | ⬜ |
