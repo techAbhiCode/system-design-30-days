@@ -30,7 +30,7 @@ Learning Low-Level Design, Design Patterns, UML, and Real-World System Design th
 | 21 | Proxy Pattern | ✅ |
 | 22 | Chain of Responsibility Pattern | ✅ |
 | 23 | Build Payment Gateway System | ✅ |
-| 24 | Bridge Pattern + Discount Coupon Engine | ⬜ |
+| 24 | Bridge Pattern + Discount Coupon Engine | ✅ |
 | 25 | Build Zepto Inventory System | ⬜ |
 | 26 | Builder Pattern + Iterator Pattern | ⬜ |
 | 27 | Flyweight Pattern + Prototype Pattern | ⬜ |
